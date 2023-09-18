@@ -14,4 +14,4 @@ CREATE TABLE students (
   github VARCHAR(50),
   start_date DATE,
   end_date DATE
-)
+);
